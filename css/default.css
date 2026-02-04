@@ -10,7 +10,7 @@ body{margin:0;padding:0;background:#a63a75;font-size:12px;overflow:auto}
 #loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
 #clickSound{display:none}
 #code{float:left;width:440px;height:400px;color:#333;font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";font-size:12px}
-#code .string{color:#2a36ff}
+#code .string{color:#f26fb7}
 #code .keyword{color:#7f0055;font-weight:bold}
 #code .placeholder{margin-left:15px}#code .space{margin-left:7px}
 #code .comments{color:#a63a75}
